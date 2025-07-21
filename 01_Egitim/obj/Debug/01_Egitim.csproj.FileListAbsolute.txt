@@ -1,0 +1,8 @@
+D:\VS Comm\Csharpegitim\Csharpegitim\01_Egitim\bin\Debug\01_Egitim.exe.config
+D:\VS Comm\Csharpegitim\Csharpegitim\01_Egitim\bin\Debug\01_Egitim.exe
+D:\VS Comm\Csharpegitim\Csharpegitim\01_Egitim\bin\Debug\01_Egitim.pdb
+D:\VS Comm\Csharpegitim\Csharpegitim\01_Egitim\obj\Debug\01_Egitim.csproj.AssemblyReference.cache
+D:\VS Comm\Csharpegitim\Csharpegitim\01_Egitim\obj\Debug\01_Egitim.csproj.CoreCompileInputs.cache
+D:\VS Comm\Csharpegitim\Csharpegitim\01_Egitim\obj\Debug\01_Egitim.exe
+D:\VS Comm\Csharpegitim\Csharpegitim\01_Egitim\obj\Debug\01_Egitim.pdb
+D:\VS Comm\Csharpegitim\Csharpegitim\01_Egitim\obj\Debug\01_Egitim.exe.config
