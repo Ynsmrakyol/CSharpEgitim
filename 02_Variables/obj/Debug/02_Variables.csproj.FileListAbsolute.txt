@@ -1,0 +1,8 @@
+D:\VS Comm\Csharpegitim\Csharpegitim\02_Variables\bin\Debug\02_Variables.exe.config
+D:\VS Comm\Csharpegitim\Csharpegitim\02_Variables\bin\Debug\02_Variables.exe
+D:\VS Comm\Csharpegitim\Csharpegitim\02_Variables\bin\Debug\02_Variables.pdb
+D:\VS Comm\Csharpegitim\Csharpegitim\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+D:\VS Comm\Csharpegitim\Csharpegitim\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+D:\VS Comm\Csharpegitim\Csharpegitim\02_Variables\obj\Debug\02_Variables.exe
+D:\VS Comm\Csharpegitim\Csharpegitim\02_Variables\obj\Debug\02_Variables.pdb
+D:\VS Comm\Csharpegitim\Csharpegitim\02_Variables\obj\Debug\02_Variables.exe.config
